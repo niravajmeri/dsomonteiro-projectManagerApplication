@@ -5,7 +5,7 @@
     "dependencies": {
         "axios": "^0.18.0",
         "bootstrap": "^3.3.7",
-        "chart.js": "^2.7.2",
+        "chart.js": "^2.9.4",
         "fetch-mock": "^6.4.4",
         "jwt-decode": "^2.2.0",
         "lodash": "^4.17.10",
